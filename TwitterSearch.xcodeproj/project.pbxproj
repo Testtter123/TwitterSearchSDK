@@ -13,10 +13,6 @@
 		4C2021B11ED0D14A00C0C4A6 /* AlamofireObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2021AD1ED0D14A00C0C4A6 /* AlamofireObjectMapper.framework */; };
 		4C2021B21ED0D14A00C0C4A6 /* ObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2021AE1ED0D14A00C0C4A6 /* ObjectMapper.framework */; };
 		4C2021B31ED0D14A00C0C4A6 /* OhhAuth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C2021AF1ED0D14A00C0C4A6 /* OhhAuth.framework */; };
-		4C2021B41ED0D15900C0C4A6 /* Alamofire.framework in Resources */ = {isa = PBXBuildFile; fileRef = 4C2021AC1ED0D14A00C0C4A6 /* Alamofire.framework */; };
-		4C2021B51ED0D15900C0C4A6 /* AlamofireObjectMapper.framework in Resources */ = {isa = PBXBuildFile; fileRef = 4C2021AD1ED0D14A00C0C4A6 /* AlamofireObjectMapper.framework */; };
-		4C2021B61ED0D15900C0C4A6 /* ObjectMapper.framework in Resources */ = {isa = PBXBuildFile; fileRef = 4C2021AE1ED0D14A00C0C4A6 /* ObjectMapper.framework */; };
-		4C2021B71ED0D15900C0C4A6 /* OhhAuth.framework in Resources */ = {isa = PBXBuildFile; fileRef = 4C2021AF1ED0D14A00C0C4A6 /* OhhAuth.framework */; };
 		4CBBED181ED04ED4003BA228 /* TwitterSearch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CBBED0E1ED04ED4003BA228 /* TwitterSearch.framework */; };
 		4CBBED1D1ED04ED4003BA228 /* TwitterSearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBBED1C1ED04ED4003BA228 /* TwitterSearchTests.swift */; };
 		4CBBED1F1ED04ED4003BA228 /* TwitterSearch.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CBBED111ED04ED4003BA228 /* TwitterSearch.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -272,10 +268,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C2021B41ED0D15900C0C4A6 /* Alamofire.framework in Resources */,
-				4C2021B51ED0D15900C0C4A6 /* AlamofireObjectMapper.framework in Resources */,
-				4C2021B61ED0D15900C0C4A6 /* ObjectMapper.framework in Resources */,
-				4C2021B71ED0D15900C0C4A6 /* OhhAuth.framework in Resources */,
 				4C2021A71ED0CECE00C0C4A6 /* Pods_TwitterSearch.framework in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
